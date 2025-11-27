@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 # Colaboraciones de Magic: The Gathering con Otras Franquicias
 
-![MTG x Play Station](/img/colaboraciones.jpg)
+![MTG x Play Station]({{ site.baseurl }}/img/colaboraciones.jpg)
 
 Magic: The Gathering (MTG) ha trascendido más allá de su propio universo, colaborando con franquicias icónicas de cine, videojuegos, cómics y series. Estas colaboraciones permiten a los jugadores coleccionar cartas inspiradas en personajes y mundos que aman, además de introducir mecánicas temáticas y arte especial. Muchos de estos sets forman parte de la línea **Universes Beyond**, mientras que otros se lanzan como ediciones limitadas de **Secret Lair** o reimpresiones especiales.
 
