@@ -22,8 +22,8 @@ title: "Magic The Gathering"
 email: ygutierrezm05@educantabria.es
 description: >- # this means to ignore newlines until "baseurl:"
   Pagina dedicada al juego de cartas Magic the Gathering (MTG)
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/minima" # the subpath of your site, e.g. /blog
+url: "https://yerayyeray.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ygutierrezm05
 github_username:  yerayyeray
 
