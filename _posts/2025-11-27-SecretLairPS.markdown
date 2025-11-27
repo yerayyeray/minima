@@ -7,7 +7,7 @@ categories: jekyll update
 
 # Secret Lair × PlayStation: la nueva super‑colaboración de Magic: The Gathering
 
-![MTG x Play Station](/img/SL_Playstation.jpg)
+![MTG x Play Station]({{ site.baseurl }}/img/SL_Playstation.jpg)
 
 ## 🎮 ¿Qué es este “Secret Lair × PlayStation”?
 
