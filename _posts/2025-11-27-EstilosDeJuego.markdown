@@ -5,7 +5,7 @@ date:   2025-11-27 11:49:26 +0100
 categories: jekyll update
 ---
 
-![MTG x Play Station](/img/monton.jpg)
+![MTG x Play Station]({{ site.baseurl }}/img/monton.jpg)
 
 # Estilos de Juego en Magic: The Gathering
 
